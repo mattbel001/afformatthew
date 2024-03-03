@@ -1,0 +1,126 @@
+
+
+h2{
+	color: darkblue;
+	font-weight: 900;
+}
+
+.navrow{
+	padding-left: 0px !important;
+	padding-right: 0px !important;
+}
+
+.mynav{
+	background-color: darkblue;
+	color: white;
+}
+
+.mynav a{
+	color: white !important;
+}
+
+.mylinks li a{
+	color: white !important;
+}
+
+.myhero{
+	background-image: url("images/projectimage2.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	
+}
+
+
+.mycol{
+	min-height: 500px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	background-color: rgba(0, 0, 0, 0.7);
+}
+
+.mycol h1{
+	color: white;
+	font-weight: 900;
+	font-size: 3em;
+}
+
+.mycol p{
+	color: whitesmoke;
+	font-weight: 800;
+	font-size: 1.5em;
+}
+
+.intro{
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+.Servicetitle{
+	text-align: center;
+	padding-top: 100px;
+	background-color: ghostwhite;
+}
+
+.services {
+	padding-bottom: 100px;
+	padding-top: 50px;
+	background-color: ghostwhite;
+}
+.services .sercol:hover{
+	background-color: darkblue;
+	color: white;
+}
+.projectshead{
+	text-align: center;
+	padding-top: 100px;
+
+}
+
+.projectshead p{
+	width: 50%;
+	margin: auto;
+
+}
+.project{
+	padding-bottom: 100px;
+	padding-top: 50px;
+}
+.project .pro:hover{
+	background-color: #bdede0;
+	color: white;
+}
+.project .pro h2{
+	padding-top:20px;
+}
+
+.testimonial{
+	padding-top: 30px;
+	text-align: center;
+	padding-bottom: 50px;
+	background-color: ghostwhite;
+}
+.testimony{
+	background-color: ghostwhite;
+	padding-bottom: 40px;
+}
+.contactf h2{
+	text-align: center;
+	padding-top:100px;
+	padding-bottom: 20x;
+}
+.form2 h2{
+	display:flex;
+	align-items: align-self;
+	justify-items: space-around;
+	
+}
+
+.footer{
+	background-color: darkblue;
+	color: white;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
